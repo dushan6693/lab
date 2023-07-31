@@ -1,5 +1,5 @@
 # lab
 
-this folder have all project of my Java practical sessions.
+this folder has all projects of my Java practical sessions.
 </br>
-All the lab sessions a <p style="color:red;">separated by paper vice.</p>
+All the lab sessions a separated by paper vice.
